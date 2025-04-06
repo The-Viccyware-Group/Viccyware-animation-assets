@@ -1,8 +1,29 @@
 {
+<<<<<<< HEAD:anim_vc_listening_01.json
   "anim_vc_listening_01": [
     {
       "durationTime_ms": 198,
       "triggerTime_ms": 0,
+=======
+  "anim_vc_listen-new": [
+    {
+      "durationTime_ms": 106,
+      "triggerTime_ms": 0,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 32
+    },
+    {
+      "durationTime_ms": 106,
+      "triggerTime_ms": 106,
+      "Name": "LiftHeightKeyFrame",
+      "heightVariability_mm": 0,
+      "height_mm": 38
+    },
+    {
+      "durationTime_ms": 106,
+      "triggerTime_ms": 211,
+>>>>>>> 57f1b00 (Fresh anim right from maya):anim_vc_listen-new.json
       "Name": "LiftHeightKeyFrame",
       "heightVariability_mm": 0,
       "height_mm": 32.0
@@ -23,6 +44,7 @@
     },
     {
       "angleVariability_deg": 0,
+<<<<<<< HEAD:anim_vc_listening_01.json
       "angle_deg": 0.0,
       "triggerTime_ms": 0,
       "Name": "HeadAngleKeyFrame",
@@ -48,6 +70,293 @@
       "triggerTime_ms": 264,
       "Name": "HeadAngleKeyFrame",
       "durationTime_ms": 99
+=======
+      "angle_deg": 31,
+      "triggerTime_ms": 0,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 79
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 30,
+      "triggerTime_ms": 79,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 79
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 16,
+      "triggerTime_ms": 158,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 79
+    },
+    {
+      "angleVariability_deg": 0,
+      "angle_deg": 31,
+      "triggerTime_ms": 238,
+      "Name": "HeadAngleKeyFrame",
+      "durationTime_ms": 132
+    },
+    {
+      "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 1.0,
+      "scanlineOpacity": 1.0,
+      "faceScaleX": 1.0,
+      "leftEye": [
+        8.107326060759817,
+        0.0,
+        1.5174507300664741,
+        1.1453089027930028,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "faceAngle": 0.0,
+      "durationTime_ms": 0,
+      "faceCenterY": 0.0,
+      "faceCenterX": 0.0,
+      "rightEye": [
+        -7.315991464547729,
+        0.0,
+        1.5174507300664741,
+        1.144941064931666,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "triggerTime_ms": 0
+    },
+    {
+      "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 1.0,
+      "scanlineOpacity": 1.0,
+      "faceScaleX": 1.0,
+      "leftEye": [
+        8.107326060759817,
+        0.0,
+        1.5174507300664741,
+        1.1453089027930028,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "faceAngle": 0.0,
+      "durationTime_ms": 0,
+      "faceCenterY": 0.0,
+      "faceCenterX": 0.0,
+      "rightEye": [
+        -7.315991464547729,
+        0.0,
+        1.5174507300664741,
+        1.144941064931666,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "triggerTime_ms": 79
+    },
+    {
+      "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 0.9134236643252969,
+      "scanlineOpacity": 1.0,
+      "faceScaleX": 1.0,
+      "leftEye": [
+        8.107326060759817,
+        0.0,
+        1.5174507300664741,
+        1.1453089027930028,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "faceAngle": 0.0,
+      "durationTime_ms": 0,
+      "faceCenterY": 20.372924285380808,
+      "faceCenterX": 0.0,
+      "rightEye": [
+        -7.315991464547729,
+        0.0,
+        1.5174507300664741,
+        1.144941064931666,
+        0.0,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.6,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "triggerTime_ms": 132
+    },
+    {
+      "Name": "ProceduralFaceKeyFrame",
+      "faceScaleY": 0.15377329868158016,
+      "scanlineOpacity": 1.0,
+      "faceScaleX": 1.1407036811202922,
+      "leftEye": [
+        8.107326060759817,
+        0.0,
+        2.293576296365383,
+        1.1453089027930028,
+        0.0,
+        0.029651479269140815,
+        0.029651479269140815,
+        0.029651479269140815,
+        0.029651479269140815,
+        0.029651479269140815,
+        0.029651479269140815,
+        0.029651479269140815,
+        0.029651479269140815,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "faceAngle": 0.0,
+      "durationTime_ms": 0,
+      "faceCenterY": 28.48423730858404,
+      "faceCenterX": 0.0,
+      "rightEye": [
+        -7.315991464547729,
+        0.0,
+        2.293576296365383,
+        1.144941064931666,
+        0.0,
+        0.029651479269140815,
+        0.029651479269140815,
+        0.029651479269140815,
+        0.029651479269140815,
+        0.029651479269140815,
+        0.029651479269140815,
+        0.029651479269140815,
+        0.029651479269140815,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0
+      ],
+      "triggerTime_ms": 158
+>>>>>>> 57f1b00 (Fresh anim right from maya):anim_vc_listen-new.json
     },
     {
       "Name": "ProceduralFaceKeyFrame",
@@ -99,7 +408,11 @@
         0.0,
         0.0
       ],
+<<<<<<< HEAD:anim_vc_listening_01.json
       "triggerTime_ms": 0
+=======
+      "triggerTime_ms": 211
+>>>>>>> 57f1b00 (Fresh anim right from maya):anim_vc_listen-new.json
     },
     {
       "Name": "ProceduralFaceKeyFrame",
@@ -127,6 +440,7 @@
         0.0,
         0.0
       ],
+<<<<<<< HEAD:anim_vc_listening_01.json
       "durationTime_ms": 0,
       "faceCenterY": 14.006925082153431,
       "faceCenterX": 0.0,
@@ -152,6 +466,9 @@
         0.0
       ],
       "triggerTime_ms": 99
+=======
+      "triggerTime_ms": 264
+>>>>>>> 57f1b00 (Fresh anim right from maya):anim_vc_listen-new.json
     },
     {
       "Name": "ProceduralFaceKeyFrame",
@@ -179,6 +496,7 @@
         0.0,
         0.0
       ],
+<<<<<<< HEAD:anim_vc_listening_01.json
       "durationTime_ms": 0,
       "faceCenterY": 14.635362271546343,
       "faceCenterX": 0.0,
@@ -204,6 +522,9 @@
         0.0
       ],
       "triggerTime_ms": 165
+=======
+      "triggerTime_ms": 290
+>>>>>>> 57f1b00 (Fresh anim right from maya):anim_vc_listen-new.json
     },
     {
       "Name": "ProceduralFaceKeyFrame",
@@ -231,6 +552,7 @@
         0.0,
         0.0
       ],
+<<<<<<< HEAD:anim_vc_listening_01.json
       "durationTime_ms": 0,
       "faceCenterY": 20.46231237847906,
       "faceCenterX": 0.0,
@@ -9127,6 +9449,14 @@
       "triggerTime_ms": 330.0,
       "Name": "BodyMotionKeyFrame",
       "radius_mm": 33.0
+=======
+      "triggerTime_ms": 370
+    },
+    {
+      "event_id": "LISTENING_BEGIN",
+      "triggerTime_ms": 0,
+      "Name": "EventKeyFrame"
+>>>>>>> 57f1b00 (Fresh anim right from maya):anim_vc_listen-new.json
     }
   ]
 }
