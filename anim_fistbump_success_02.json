@@ -1945,6 +1945,19 @@
     {
       "volume": 1.0,
       "audioName": [
+        "Play__Robot_Vo__Fist_Bump_Giggle"
+      ],
+      "Name": "RobotAudioKeyFrame",
+      "probability": 1.0,
+      "hasAlts": true,
+      "triggerTime_ms": 924.0,
+      "audioEventId": [
+        1531806306
+      ]
+    },
+    {
+      "volume": 1.0,
+      "audioName": [
         "Stop__Robot_Vo__Shared_Happy_Loop_Stop"
       ],
       "Name": "RobotAudioKeyFrame",
