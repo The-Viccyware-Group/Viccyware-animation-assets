@@ -1190,14 +1190,14 @@
     {
       "volume": 1.0,
       "audioName": [
-        "Play__Robot_Sfx__Scrn_Happy_Loop_Play"
+        "Play__Robot_Vo__Shared_Happy_Long"
       ],
       "Name": "RobotAudioKeyFrame",
       "probability": 1.0,
       "hasAlts": true,
       "triggerTime_ms": 33.0,
       "audioEventId": [
-        2681596674
+        174359366
       ]
     },
     {
